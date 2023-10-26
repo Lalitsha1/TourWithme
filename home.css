@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    top: 0;
+    z-index: 99;
+}
+
+
+
+.dis {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    margin: 10px;
+    font-size: large;
+    border-radius: 20px;
+    padding: 10px 16px;
+
+}
+
+.dis:hover {
+    background-color: rgb(0, 0, 0);
+    color: wheat;
+}
+
+.plantrip {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    margin: 10px;
+    font-size: large;
+    border-radius: 20px;
+    padding: 10px 16px;
+
+}
+
+.plantrip:hover {
+    text-decoration: underline;
+}
+
+.singin {
+    background-color: black;
+    color: aliceblue;
+}
+
+/* ============================================================================================== */
+
+
+#textin {
+
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    margin-top: 55px;
+    height: auto;
+}
+
+#textin>h1 {
+    margin-left: 300px;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.icon {
+    display: flex;
+    margin: 20px;
+
+}
+
+.icon li {
+    padding: 20px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.icon li:hover {
+    text-decoration: underline;
+}
+
+.icon li i {
+    padding: 5px;
+}
+
+
+.searchs {
+    height: 50px;
+    width: 90%;
+    border-radius: 100px;
+    border: 1px solid red;
+    margin-left: 30px;
+    display: block;
+    overflow: hidden;
+}
+
+.searchs>div {
+    padding: 5px;
+    margin-left: 20px;
+}
+
+.search {
+    height: 90px;
+}
+
+.searchs>div>input {
+    width: 80%;
+    height: 40px;
+    border: none;
+}
+
+.button_search {
+    height: 40px;
+    width: 100px;
+    font-size: large;
+    border: none;
+    border-radius: 100px;
+    background-color: #34E0A1;
+    box-shadow: 2px 2px;
+}
+
+/* ================================= img ================= */
+.img {
+    background-image: url("https://images.rawpixel.com/image_800/cHJpdmF0ZS9zdGF0aWMvaW1hZ2VzL3dlYnNpdGUvMjAyMi0wNS91cHdrNjE2NjE1Nzctd2lraW1lZGlhLWltYWdlLWtvd2FwZWVqLmpwZw.jpg?s=LOXtOhAoZKEGA2EgsMSMvCCm08xwgePy-w-Fmh3r_EM");
+    height: 80vh;
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    border: 0.5px solid black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.innertext {
+    position: relative;
+    margin-top: 33%;
+    color: whitesmoke;
+    margin-left: 20px;
+}
+
+.innertext>h3 {
+    font-size: 35px;
+}
+
+.innertext>button {
+    width: 200px;
+    height: 50px;
+    border-radius: 100px;
+    margin-top: 15px;
+}
+
+.innertext>button:hover {
+    background-color: black;
+    color: chartreuse;
+}
+
+
+
+/* ==================================================================== */
+#footers {
+    margin-top: 80px;
+    background-color: #faf1ed;
+    height: auto;
+    border: 2px solid gainsboro;
+}
+
+#footin {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    width: 100%;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.foo2 {
+    margin-top: 55px;
+}
+
+.foo2>p {
+    margin-left: 100px;
+}
+
+
+.footer>ul {
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+.footer>ul>li {
+    list-style: none;
+    margin-top: 10px;
+
+}
+
+/* ============================================================== */
+.footer_down {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    width: 120%;
+    margin-left: 40px;
+}
+
+.foot_in>img {
+    height: 50px;
+    width: 50px;
+}
+
+.foot_in>ul>li {
+    list-style: none;
+    margin: 5px;
+}
+
+.foot_in>ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 10px;
+}
