@@ -217,6 +217,11 @@
 .foot_in>ul>li {
     list-style: none;
     margin: 5px;
+    text-decoration: underline;
+}
+.foot_in> ul >li :hover{
+    text-decoration: underline;
+    color: pink;
 }
 
 .foot_in>ul {

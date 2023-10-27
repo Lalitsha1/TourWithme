@@ -1,0 +1,147 @@
+{
+    "data":[
+        {
+            "image":"apiImage/images.jpg",
+            "place":"Delhi",
+            "price": "1200 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":1
+        },
+        {
+            "image":"apiImage/img1.jpg",
+            "place":"Mumbai",
+            "price": "1300 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":2
+        },
+        {
+            "image":"apiImage/img2.jpg",
+            "place":"Delhi",
+            "price": "1400 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":3
+
+        },
+        {
+            "image":"apiImage/img3.jpg",
+            "place":"Mumbai",
+            "price": "1000 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":4
+
+        },
+        {
+            "image":"apiImage/img4.jpg",
+            "place":"Delhi",
+            "price": "2000 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":5
+
+        },
+        {
+            "image":"apiImage/img5.jpg",
+            "place":"Mumbai",
+            "price": "2200 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":6
+
+        },
+        {
+            "image":"apiImage/img6.jpg",
+            "place":"Delhi",
+            "price": "3200 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":7
+
+        },
+        {
+            "image":"apiImage/img7.jpg",
+            "place":"Mumbai",
+            "price": "1000 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":8
+
+        },
+        {
+            "image":"apiImage/img8.jpg",
+            "place":"Delhi",
+            "price": "1000 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":9
+
+        },
+        {
+            "image":"apiImage/img9.jpg",
+            "place":"Mumbai",
+            "price": "4200 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":10
+
+        },
+        {
+            "image":"apiImage/img10.jpg",
+            "place":"Delhi",
+            "price": "6200 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":11
+
+        },
+        {
+            "image":"apiImage/img11.jpg",
+            "place":"Mumbai",
+            "price": "3800 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":12
+
+        },
+        {
+            "image":"apiImage/img12.jpg",
+            "place":"Delhi",
+            "price": "2800 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":13
+
+        },
+        {
+            "image":"apiImage/img13.jpg",
+            "place":"Delhi",
+            "price": "1900 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":14
+
+        },
+        {
+            "image":"apiImage/img14.jpg",
+            "place":"Mumbai",
+            "price": "3200 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":15
+
+        },
+        {
+            "image":"apiImage/img15.jpg",
+            "place":"Delhi",
+            "price": "5200 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":16
+
+        },
+        {
+            "image":"apiImage/img16.jpg",
+            "place":"Mumbai",
+            "price": "1700 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":17
+
+        },
+        {
+            "image":"apiImage/img17.jpg",
+            "place":"Delhi",
+            "price": "2500 Rs",
+            "discription": "In this hotel we are provid free wifi",
+            "id":18
+
+        }
+        
+    ]
+}

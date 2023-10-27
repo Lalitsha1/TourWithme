@@ -1,0 +1,31 @@
+
+#cart-container{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    margin-top: 90px;
+}
+.card{
+    margin: 5px;
+    text-align: center;
+    align-items: center;
+    
+}
+.card > img{
+   height: 250px;
+   width: 90%;
+   
+}
+
+#jsondiv{
+    width: 80%;
+    height: 35px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.468);
+    color: chartreuse;
+    
+}
+#jsondiv:hover{
+    background-color: black;
+    color: chartreuse;
+}
